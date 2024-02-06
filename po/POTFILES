@@ -1,0 +1,6 @@
+data/cyou.molyuu.motion.desktop.in
+data/cyou.molyuu.motion.metainfo.xml.in
+data/cyou.molyuu.motion.gschema.xml
+src/main.c
+src/motion-window.c
+src/motion-window.ui

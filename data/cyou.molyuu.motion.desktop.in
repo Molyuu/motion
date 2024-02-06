@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=motion
+Exec=motion
+Icon=cyou.molyuu.motion
+Terminal=false
+Type=Application
+Categories=Utilities;
+StartupNotify=true
